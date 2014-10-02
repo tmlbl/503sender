@@ -1,0 +1,17 @@
+{
+  "name": "503sender",
+  "version": "0.0.0",
+  "description": "Simulates a service provider being down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "git@github.com:tmlbl/503sender.git",
+  "dependencies": {
+    "express": "^4.9.5"
+  }
+}
+
